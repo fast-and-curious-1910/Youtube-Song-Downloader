@@ -17,3 +17,11 @@ First open songs.txt and write the name of your song (Only One Song Is Accepted 
 3. It will got to YTMP3.cc and download the file 
 
 and that is it! 
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+### Could You Check Out [My Channel On Youtube?](https://www.youtube.com/channel/UCdfaHl9USu-J-kp4Bj_7J2Q)
