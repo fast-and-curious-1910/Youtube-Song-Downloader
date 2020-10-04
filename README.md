@@ -8,7 +8,7 @@ This is a song downloader Made In #Python . Have you ever wanted to download an 
 
 ## Usage
 
-*Important Note : Chromewebdriver Must Be On Path*
+*Important Note : Chromewebdriver Must Be On PATH other wise it will not work.*
 
 First open songs.txt and write the name of your song (Only One Song Is Accepted at a time) , save the file and close it. Run classes.py then main.py. Then the magic should happen a few things will happen:
 
