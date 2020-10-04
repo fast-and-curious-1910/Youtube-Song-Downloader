@@ -1,11 +1,19 @@
-# youtube_song_downloader
+# Youtube Song Downloader 
+Youtube Song Downloader in Python 
 
-Downloads songs you typed in liedjes.txt
 
-Just found an old project of mine, surprised it still works. This project uses selenium module to download songs through an mp3-converter from youtube. Sometimes your chromedriver is outdated, in that case you have to download a new one.
+## About 
+This is a song downloader Made In #Python . Have you ever wanted to download an MP3 File (For any zumba / yoga classes or even studying) , but you are busy in some other work as well and you want to focus on the work you are doing right now? Guess what , I have you covered!
 
-What do you need for this:
 
--python installed
--selenium installed
--chrome installed
+## Usage
+
+*Important Note : Chromewebdriver Must Be On Path*
+
+First open songs.txt and write the name of your song (Only One Song Is Accepted at a time) , save the file and close it. Run classes.py then main.py. Then the magic should happen a few things will happen:
+
+1. A new tab will open
+2. It will go to youtube.com 
+3. It will got to YTMP3.cc and download the file 
+
+and that is it! 
