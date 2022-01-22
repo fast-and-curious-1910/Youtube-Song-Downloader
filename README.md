@@ -24,4 +24,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-### Could You Check Out [My Channel On Youtube?](https://www.youtube.com/channel/UCdfaHl9USu-J-kp4Bj_7J2Q)
+
